@@ -1,3 +1,4 @@
 Archivo creado por Winston
 Archivo modificado por Francisco
 Deberia llamarse Winston1
+Conflicto numero 2 generado
